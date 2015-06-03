@@ -1,3 +1,8 @@
+/**
+ * This file contains the basic database schema for the application
+ *
+ * @author Tong Liu
+ */
 CREATE TABLE RESTAURANT
 (
 	RESTAURANTID VARCHAR(10) PRIMARY KEY,
