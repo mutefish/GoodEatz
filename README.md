@@ -1,2 +1,2 @@
 # GoodEatz
-The one with a restaurant review web app
+The one with a restaurant review web application
